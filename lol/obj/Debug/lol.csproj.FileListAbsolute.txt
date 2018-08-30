@@ -1,0 +1,7 @@
+C:\Users\AnzallaDD\source\repos\lol\lol\bin\Debug\lol.exe.config
+C:\Users\AnzallaDD\source\repos\lol\lol\bin\Debug\lol.exe
+C:\Users\AnzallaDD\source\repos\lol\lol\bin\Debug\lol.pdb
+C:\Users\AnzallaDD\source\repos\lol\lol\obj\Debug\lol.csprojAssemblyReference.cache
+C:\Users\AnzallaDD\source\repos\lol\lol\obj\Debug\lol.csproj.CoreCompileInputs.cache
+C:\Users\AnzallaDD\source\repos\lol\lol\obj\Debug\lol.exe
+C:\Users\AnzallaDD\source\repos\lol\lol\obj\Debug\lol.pdb
